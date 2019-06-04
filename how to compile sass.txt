@@ -1,0 +1,7 @@
+first you have to install the sass throw gym or gem from the terminal if you are in mac, and if you are in windows you will have to download ruby first before you install it.
+then go to the terminal 
+go to the folder where it contains you main sass file that you want to compile to css in real time
+and do the following command 
+sass --watch app.sass:app.css
+
+and that is it , there you go

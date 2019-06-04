@@ -1,0 +1,2 @@
+where you put all your css and sass and scss plugins that you are going to use in the project
+there will be a file inside the plugins folder that is called plugin-dir.sass , and this file will pull all the directories of the plugins that you are going to be using throw the project
